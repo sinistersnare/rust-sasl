@@ -1,5 +1,7 @@
 # rust-sasl
 
+A change made for CI running reasons.
+
 [![crates.io](https://img.shields.io/crates/v/sasl2-sys.svg)](https://crates.io/crates/sasl2-sys)
 [![CI](https://github.com/MaterializeInc/rust-sasl/workflows/CI/badge.svg)](https://github.com/MaterializeInc/rust-sasl/actions?query=workflow%3ACI+branch%3Amaster)
 [![Rust Documentation](https://img.shields.io/badge/api-rustdoc-blue.svg)][docs]
